@@ -1,0 +1,51 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+
+.error {
+  padding: 10px;
+  color: rgb(19, 7, 7);
+  background-color:rgb(253, 183, 195);
+  text-align: center;
+  border-radius: 5px;
+  margin: 20px;
+  border: 1px solid rgb(180, 126, 135); 
+  }
+
+  .success{
+    padding: 10px;
+    background-color: rgb(122, 184, 149);
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    margin: 20px;
+  }
+
+  .vacio{
+    padding: 10px;
+    background-color: rgb(226, 241, 16);
+    color: black;
+    text-align: center;
+    border-radius: 5px;
+    margin: 20px;
+  }
+
+  .container{
+    border:none;
+    border-radius: 20px;
+    background-color: snow;
+    padding: 20px;
+  }
+
+  .forms button {
+    width: 100%; 
+  }
+  
